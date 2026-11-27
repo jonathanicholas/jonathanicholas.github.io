@@ -15,7 +15,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I’m a cognitive neuroscientist interested in decision making and memory. My research uses behavioral, computational, and neural methods to investigate how we use the past to behave more effectively in the future.
+I’m a cognitive neuroscientist interested in decision making and memory. My research uses computational, behavioral, eyetracking, and neural methods to investigate how we use the past to behave more effectively.
 
 In fall 2027, I’m joining the [Paris Brain Institute](https://parisbraininstitute.org/)’s Center for AI and Data Science as a group leader. [My lab](https://cmd-lab.eu) is recruiting at all levels, and you can see open positions [here](https://cmd-lab.eu/#join).
 
